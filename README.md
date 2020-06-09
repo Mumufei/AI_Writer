@@ -1,12 +1,4 @@
-演示视频参考
-<video id="video" controls="" preload="none" poster="http://om2bks7xs.bkt.clouddn.com/2017-08-26-Markdown-Advance-Video.jpg">
-<source id="mp4" src="https://www.iqiyi.com/v_19rxoxbkhk.html#curid=16678996500_b4cdcb4320cdfae5f480487b73576efb" type="video/mp4">
-</video>
-
-作者：范东同学
-链接：https://www.jianshu.com/p/0742bb15c2dd
-来源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+[演示视频](https://www.iqiyi.com/v_19rxoxbkhk.html#curid=16678996500_b4cdcb4320cdfae5f480487b73576efb)
 
 项目的深度学习代码基于[GPT-2 Chinese](https://github.com/Morizeyao/GPT2-Chinese)项目。
 安装方法：
