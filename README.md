@@ -1,5 +1,6 @@
 演示视频参考：
-<embed src="//player.video.iqiyi.com/b4cdcb4320cdfae5f480487b73576efb/0/0/v_19rxoxbkhk.swf-albumId=16678996500-tvId=16678996500-isPurchase=0-cnId=undefined" allowFullScreen="true" quality="high" width="480" height="350" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+[![Watch the video](https://www.iqiyi.com/v_19rxoxbkhk.html#curid=16678996500_b4cdcb4320cdfae5f480487b73576efb)
+
 项目的深度学习代码基于[GPT-2 Chinese](https://github.com/Morizeyao/GPT2-Chinese)项目。
 安装方法：
 请先于NVIDIA官网下载
