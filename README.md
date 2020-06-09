@@ -1,5 +1,5 @@
 演示视频参考
-<iframe height=498 width=510 src=https://www.iqiyi.com/v_19rxoxbkhk.html#curid=16678996500_b4cdcb4320cdfae5f480487b73576efb frameborder=0 allowfullscreen></iframe>
+<iframe src="http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=b4cdcb4320cdfae5f480487b73576efb&tvId=16678996500&accessToken=2.f22860a2479ad60d8da7697274de9346&appKey=3955c3425820435e86d0f4cdfe56f5e7&appId=1368&height=100%&width=100%" frameborder="0" allowfullscreen="true" width="100%" height="100%"></iframe>
 
 项目的深度学习代码基于[GPT-2 Chinese](https://github.com/Morizeyao/GPT2-Chinese)项目。
 安装方法：
